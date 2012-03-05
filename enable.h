@@ -1,0 +1,14 @@
+#ifndef ENABLE_H_INCLUDED
+#define ENABLE_H_INCLUDED
+
+#define GPIO_SOLENOIDE_NR 158
+#define GPIO_MICROPHONE_NR 135
+
+#define ENABLE 1
+#define DISABLE 0
+#define ACTIVE_LOW 1
+#define ACTIVE_HIGH 0
+#define DIRECTION_OUT "out"
+#define DIRECTION_IN "in"
+
+#endif // ENABLE_H_INCLUDED
