@@ -11,7 +11,8 @@ int main(int argc, char **args) {
     int i;
     if (aantalPulsen < 1) {
 	printf("fout"); return -1;}
-    for (i = 0 ; i < aantalPulsen ; i++) {
+	
+    for (i = 0 ; i < aantalPulsen ; i++) {	//incompleet
 
     char fileName[256];
     if (argc == 2) {
