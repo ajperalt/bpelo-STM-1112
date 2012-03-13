@@ -1,0 +1,1 @@
+int frequencyToForce(int frequency);

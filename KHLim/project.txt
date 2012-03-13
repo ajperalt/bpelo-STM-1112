@@ -1,0 +1,18 @@
+
+
+1. initialiseer alle hardware:
+-mic -> gewoon standaard microfoon
+-spoel -> gewoon gpio aan/uit zetten!
+-toetsen(bord) -> wij gebruiken standaard toetsenbord
+-settings
+1. maak nieuw object (spaak)
+	-verschillende metingen (bv 3) met elk
+		-geluidsopname
+		-welke fft gebruikt is
+		-welke formule
+		-de berekende force
+	-het object heeft dus een gemiddelde force.
+2. neem geluid op eventueel plus ruis (analoog -> digitaal geluid)
+3. fft daarop (digitaal geluid -> frequentie)
+4. formule (frequentie -> force)
+5. sla die force op in object.
