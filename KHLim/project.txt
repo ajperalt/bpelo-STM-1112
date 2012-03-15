@@ -1,5 +1,5 @@
 
-
+0. configuratie van een IDE
 1. initialiseer alle hardware:
 -mic -> gewoon standaard microfoon
 -spoel -> gewoon gpio aan/uit zetten!
